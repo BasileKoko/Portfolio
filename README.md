@@ -2,12 +2,12 @@
 
 - BeMyMeme(Final Group Project): [BeMyMeme on Heroku](https://bemymeme.herokuapp.com/)  
 [Project Repository](https://github.com/Justinio14/BeMyMeme)  
-A dating app built in Rails which makes it easier for user to describe their personality using memes.
+A dating app built with Rails which makes it easier for user to describe their personality using memes.
 
 
 - NotMyNews(Group Project): [NotMyNews on heroku](https://notmynews2.herokuapp.com/)  
 [Project Repository](https://github.com/J-Marriott/NotMyNews)  
-An app built in Rails that challenge your political views by suggesting to you news you do not usually read.
+An app built with Rails that challenge your political views by suggesting to you news you do not usually read.
 
 - BnB(Group Project): [BnB on Heroku](https://makersbestbnb.herokuapp.com/)  
 [Project Repository](https://github.com/samjones1001/makersbnb)  
