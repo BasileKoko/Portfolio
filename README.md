@@ -1,4 +1,3 @@
-### Projects
 
 **Personal projects**
 
