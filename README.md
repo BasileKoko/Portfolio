@@ -26,5 +26,5 @@ A platform built in Sinatra to share your ideas and what matters to you
 A game built with Sinatra where rocks beats scissors, scissors beats paper and paper beats rock.
 
 - Todo App  
-[Project Repository](https://github.com/BasileKoko/Node.js/tree/master/to-do-app)
+[Project Repository](https://github.com/BasileKoko/Node.js/tree/master/to-do-app)  
 A simple app built with Node.js which allows you to create todo list.
