@@ -2,7 +2,7 @@ My favourite personal and group projects which showcase the current skills and t
 
 Project title & Repository | Description  									| Development timeframe | Technologies | Testing|Live URL
 -------------- | -----------------------------------------------| ----------------------|------------- |--------|--------
-[Github App](https://github.com/BasileKoko/unboxed) (Personal) | A command line app which allows users to enter a Github username and to be presented with the Github user's favourite programming language | 6 days | Ruby, HTML, CSS, Github API, Faraday gem, JSON | Rspec, Coveralls | N/A
+[Github App](https://github.com/BasileKoko/unboxed/tree/master/github_test) (Personal) | A command line app which allows users to enter a Github username and to be presented with the Github user's favourite programming language | 6 days | Ruby, HTML, CSS, Github API, Faraday gem, JSON | Rspec, Coveralls | N/A
 [Todo App](https://github.com/BasileKoko/Node.js/tree/master/to-do-app) (Personal) | A simple app which allows you to create todo list | 1 day | Javascript, Node.js, Express.js, jQuery, MongoDB, HTML, CSS | Mocha(Chai), Zombie | N/A
 [Chitter](https://github.com/BasileKoko/chitter-challenge) (Personal)  | A platform to share your ideas and what matters to you | 2 days | Ruby, Sinatra, DataMapper, HTML, CSS | Rspec, Capybara | [Chitter](https://chitter2017.herokuapp.com/)
 [Rock Paper Scissors Game](https://github.com/BasileKoko/rps-challenge) (Personal)| A game where rocks beats scissors, scissors beats paper and paper beats rocks | 2 days | Ruby, Sinatra, HTML, CSS | Rspec, Capybara | [Rock Paper Scissors](https://rockpaperscissorgame.herokuapp.com/)
