@@ -2,6 +2,7 @@ My favourite personal and group projects which showcase the current skills and t
 
 Project title & Repository | Description  									| Development timeframe | Technologies | Testing|Live URL
 -------------- | -----------------------------------------------| ----------------------|------------- |--------|--------
+[Github Favourite Programming Language App](https://github.com/BasileKoko/python_script) | A command line App which allows users to enter a GitHub username, and to be presented with the GitHub user's favourite programming language. | 2 days | Python, Pytest, Github API | N/A
 [Todo App](https://github.com/BasileKoko/Node.js/tree/master/to-do-app) (Personal) | A simple app which allows you to create todo list | 1 day | Javascript, Node.js, Express.js, jQuery, MongoDB, HTML, CSS | Mocha(Chai), Zombie | N/A
 [Chitter](https://github.com/BasileKoko/chitter-challenge) (Personal)  | A platform to share your ideas and what matters to you | 2 days | Ruby, Sinatra, DataMapper, HTML, CSS | Rspec, Capybara | [Chitter](https://chitter2017.herokuapp.com/)
 [Rock Paper Scissors Game](https://github.com/BasileKoko/rps-challenge) (Personal)| A game where rocks beats scissors, scissors beats paper and paper beats rocks | 2 days | Ruby, Sinatra, HTML, CSS | Rspec, Capybara | [Rock Paper Scissors](https://rockpaperscissorgame.herokuapp.com/)
